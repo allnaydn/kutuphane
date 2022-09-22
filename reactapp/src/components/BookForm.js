@@ -26,7 +26,7 @@ export default function BookForm() {
   return (
     <form onSubmit={handleSubmit}>
       <label>
-        <span>Yeni Kitap Ekle</span>
+        <span>Yeni Kitap Oluştur</span>
         <input 
           required
           type="text"
